@@ -1,0 +1,9 @@
+<Ui xmlns='http://www.blizzard.com/wow/ui/'>
+	<Script file='elements.lua'/>
+    <Script file='tags.lua'/>
+    <Script file='text.lua'/>
+
+    <Script file='classpower.lua'/>
+    <Script file='power.lua'/>
+    <Script file='runes.lua'/>
+</Ui>
